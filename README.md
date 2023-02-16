@@ -1,8 +1,11 @@
 # *the Open Fuego Workshop @ 4Cs*
 *An introduction to Open Fuego and basic coding*
 
-### https://bit.ly/<p>&nbsp;</p>
+### http://bit.ly/3YHskt9 
 
+<p>&nbsp;</p>
+
+![QRcode](https://github.com/sjquigley/Open-Fuego-Workshop-4Cs/qrcode.png)
 
 
 ## Workshop Goals
