@@ -5,7 +5,7 @@
 
 <p>&nbsp;</p>
 
-![QRcode](https://github.com/sjquigley/Open-Fuego-Workshop-4Cs/qrcode.png)
+![QRcode](https://github.com/sjquigley/Open-Fuego-Workshop-4Cs/qrcode.jpg)
 
 
 ## Workshop Goals
