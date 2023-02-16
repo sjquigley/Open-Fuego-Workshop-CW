@@ -1,3 +1,5 @@
+![banner](fuego.png)
+
 # *the Open Fuego Workshop @ 4Cs*
 *An introduction to Open Fuego and basic coding*
 
@@ -5,7 +7,7 @@
 
 <p>&nbsp;</p>
 
-![QRcode](https://github.com/sjquigley/Open-Fuego-Workshop-4Cs/qrcode.jpg)
+![QRcode](qrcode.jpg)
 
 
 ## Workshop Goals
@@ -111,7 +113,7 @@ SAMPLE TEACHING CYCLE (3 projects)
 
 
 
-###References
+### References
 
 Banks, A. J. (2006). Race, rhetoric, and technology: Searching for higher ground. Routledge.
 
