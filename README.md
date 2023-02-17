@@ -1,14 +1,11 @@
 ![banner](fuego.png)
 
 # *the Open Fuego Workshop @ 4Cs*
-*An introduction to Open Fuego and basic coding*
-
-### http://bit.ly/3YHskt9 
-
-<p>&nbsp;</p>
+***An introduction to Open Fuego and basic coding*** 
 
 ![QRcode](qrcode.jpg)
-
+### http://bit.ly/3YHskt9
+<p>&nbsp;</p>
 
 ## Workshop Goals
 
@@ -37,9 +34,9 @@
 
 
 ## Additional Resources
-- [Best Practices for Collaborating on GitHub](https://github.com/sjquigley/GitHub-in-the-Tech-Comm-Classroom) Tools/strategies for teaching collaboration on GitHub. 
-- [W3](https://www.w3schools.com) Provides a wide range of code reference, tutorials, and a sandbox allowing code play.
-- [Stack Overflow](https://stackoverflow.com) Code questions and aggregated answers.
+- [Best Practices for Collaborating on GitHub](https://github.com/sjquigley/GitHub-in-the-Tech-Comm-Classroom) - Tools/strategies for teaching collaboration on GitHub. 
+- [W3](https://www.w3schools.com) - Provides a wide range of code reference, tutorials, and a sandbox allowing code play.
+- [Stack Overflow](https://stackoverflow.com) - Code questions and aggregated answers.
 - [MarkDown Reference](https://daringfireball.net/projects/markdown/) - Write Markdown like a pro. <p>&nbsp;</p>
 
 
@@ -71,7 +68,7 @@ Setting up **Brackets** for Mac/Windows and **CodePad** for Chromebooks. (I've u
 ## Best Practices for Working with Code in the Classroom
 
 
-* *Work with Code* – most all of the code your students will need to write has already been written. Encourage students to work with code, not write it. (Disagree? See our final entry)
+* *Yep...Work with Code* – most all of the code your students will need to write has already been written. Encourage students to work with code, not write it. (Disagree? See our final entry)
 
 * Admit ignorance – your students will be much more responsive to learning about code and computer science when they realize that their teachers are also learners.
 
@@ -101,7 +98,7 @@ Setting up **Brackets** for Mac/Windows and **CodePad** for Chromebooks. (I've u
 
 
 
-SAMPLE TEACHING CYCLE (3 projects)
+**SAMPLE TEACHING CYCLE** (3 projects for any class)
 
 * **Code Icebreaker** - Start your class with code. Combine the standard classroom introduction with code education. Students will present who they are, where they came from, what they do, and where they want to go. (see: [Electrate Fuego](https://github.com/Open-Fuego/Electrate-Fuego) or [I AM...a Project in Becoming.](https://github.com/Open-Fuego/I-am-a-project-in-becoming))
 
