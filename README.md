@@ -39,7 +39,12 @@
 
 * [Open Fuego Webtext Generator](https://github.com/Open-Fuego/open-fuego-webtext-generator)- Preview this code-based webtext generator. 
 
-* [Workshop Feedback](https://docs.google.com/forms/d/e/1FAIpQLSffIR6Cml15Gz_4Enxp39Pq3ynN9ivYxCeZTf3J5Q8e9NZsWg/viewform?usp=sf_link) - I'd love to learn a little about how that went. <p>&nbsp;</p>
+* [Workshop Feedback](https://docs.google.com/forms/d/e/1FAIpQLSffIR6Cml15Gz_4Enxp39Pq3ynN9ivYxCeZTf3J5Q8e9NZsWg/viewform?usp=sf_link) - I'd love to learn a little about how that went. 
+
+* HELP! Are you interested in serving as a BETA tester for the Phoenix Code Editor Chrome OS APP project. It's a free and open-source operation that needs volunteers with access to a Chromebook. If so, email me at [sjq4@pitt.edu](sjq4@pitt.edu) 
+
+<p>&nbsp;</p>
+ 
 
 
 ## Additional Resources
