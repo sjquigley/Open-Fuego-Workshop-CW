@@ -48,6 +48,8 @@
 
 
 ## Additional Resources
+- Article Link: [GitHub in the Technical and Professional Communications Classroom](https://reflectionsjournal.net/wp-content/uploads/2022/11/V22.1Quigley.pdf)
+- Article Link: [basic coding](https://kairos.technorhetoric.net/26.2/disputatio/quigley/index.html)
 - [Best Practices for Collaborating on GitHub](https://github.com/sjquigley/GitHub-in-the-Tech-Comm-Classroom) - Tools/strategies for teaching collaboration on GitHub. 
 - [W3](https://www.w3schools.com) - Provides a wide range of code reference, tutorials, and a sandbox allowing code play.
 - [Stack Overflow](https://stackoverflow.com) - Code questions and aggregated answers.
