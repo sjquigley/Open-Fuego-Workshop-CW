@@ -1,17 +1,24 @@
 ![banner](fuego.png)
 
-# *the Open Fuego Workshop @ 4Cs*
+# *the Open Fuego Workshop @ C&W*
 ***An introduction to Open Fuego and basic coding*** 
 
-![QRcode](qrcode.jpg)
-### http://bit.ly/3YHskt9
+**Stephen Quigley, University of Pittsburgh, [sjq4@pitt.edu](sjq4@pitt.edu)**
 <p>&nbsp;</p>
+
+![QRcode](qrcode.jpg)
+### https://bit.ly/3KUyYqQ
+<p>&nbsp;</p>
+
+
+
+
 
 ## Workshop Goals
 
 ***Learn...***
 
-* best practices for working with code in the classroom.
+* best practices for working with code in the rhetoric and composition classroom.
 
 * how to use a code editor to work with code.
 
@@ -26,7 +33,9 @@
 
 * [Where do I find it?](https://open-fuego.github.io/Open-Fuego-Coding-Tools/) - Tool descriptions, demos, and links to GitHub repositories.
 
-* [I am...a project in becoming ](https://github.com/Open-Fuego/I-am-a-project-in-becoming)- Build your own webtext with this introductory tool.
+* [Steve's Code and Technology Narrative Example](https://sjquigley.github.io/My-code-and-technology-narrative/)- Build your own webtext with this introductory tool.
+
+* [My Code and Technology Narrative](https://github.com/Open-Fuego/code-and-technology-narrative)- Build your own webtext with this introductory tool.
 
 * [Open Fuego Webtext Generator](https://github.com/Open-Fuego/open-fuego-webtext-generator)- Preview this code-based webtext generator. 
 
@@ -40,30 +49,47 @@
 - [MarkDown Reference](https://daringfireball.net/projects/markdown/) - Write Markdown like a pro. <p>&nbsp;</p>
 
 
-### Text Editors 
+## Code editors 
 
-Setting up **Brackets** for Mac/Windows and **CodePad** for Chromebooks. (I've used Atom, VSCode, NotePad++, among others...I prefer a free and open-source code editor with a strong development community, support for HTML/CSS, and attention to highly usable installers.) 
-
-#### (Mac / Windows)
-
-1. Download "**Brackets**" from [Brackets.io](https://www.brackets.io)
-1. Select **View>Themes...**. Customize accessibility.
-1. Select **View>Word Wrap**. Force lines of code to conform to your viewer tab.
-1. To Preview HTML in a web browser, save work, and select "lightning button" on upper-right side. Or open/refresh index.html file. 
-
-#### (Chromebook)
-
-1. Download "**Code Pad Text Editor**" from [Chrome Web Store](https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB). 
-1. From the dropdown menu, select **Editor>IDE Preferences**
-1. Toggle "**Word wrap limit**" to the middle value (this will force lines of code to conform to your viewer tab.)
+You have a range of code editor options depending on your operating system, but we recommend [Phoenix Code](https://phcode.dev) because it works across all operating systems, it comes with HTML preview already installed, and it's free and open-source. You can download a version or use the online editor. 
 
 
-#### (Browser-based Editors)
+### Phoenix Code (Free and Open-Source for Mac / Windows / Linux. Download or use Online)
 
-1. [Phoenix Web Editor](https://phcode.dev/) - Browser-based editor with built-in HTML preview.
-2. GitHub.dev Web Editor - work with code within GitHub repository.
+1. Go to [Phoenix Code](https://phcode.dev). 
+1. Use the online version or [download](https://phcode.io/#/home) a desktop app for Mac, Windows, Linux. 
+1. Adjust text wrapping, select **View>Word Wrap**
+1. Enjoy the live preview.<p>&nbsp;</p><p>&nbsp;</p>
+
+
+
+### Pulsar (Free and Open-Source for Mac / Windows / Linux)
+[See Video Tutorial](https://youtu.be/dKcJm4V53ig)
+
+1. Download "**[Pulsar](https://pulsar-edit.dev)**" Pulsar comes with "Spell Check" already installed. 
+1. Add HTML Preview 
+	* from the dropdown menu, select **Packages>Open Package Manager**
+	* select **+ Install**
+	* in the search bar type "**Atom-HTML-preview**." 
+	* select the package built by "**HARMSK**." Click "**Install**."
+1. Adjust text wrapping 
+	 -	from the dropdown menu, select **View>Toggle Soft Wrap** (this will force lines of code to conform to your view tab.)
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 
+### Visual Studio Code (Mac / Windows /Linux)
+[See Video Tutorial](https://youtu.be/1onqFbSgeQo)
+
+1. Download "**[Visual Studio Code](https://code.visualstudio.com/download)**"
+1. Add HTML Preview 
+	* from the dropdown menu, select **View>Extension.**
+	* In the search bar type "**Live Preview**." Install.
+	* Right click on the index.html tab and select "**show preview**." You should see a live version of your work.
+1. Install Spell Check 
+	* from the dropdown menu, select **View>Extension.** 
+	* In the search bar type "**Code Spell Check**." Install.
+1. Adjust text wrapping on index.html 
+	* from the dropdown menu, select **View>Word Wrap** (this will force lines of code to conform to your viewer tab.)<p>&nbsp;</p><p>&nbsp;</p>
 
 ## Best Practices for Working with Code in the Classroom
 
